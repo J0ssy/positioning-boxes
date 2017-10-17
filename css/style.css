@@ -1,0 +1,46 @@
+.bgbox {
+	width: 300px;
+	height: 300px;
+	background-color: SeaGreen;
+	position: relative;
+}
+
+.midbox {
+	width: 150px;
+	height: 150px;
+	background-color: SeaShell;
+	position: absolute;
+	margin: 75px 0 0 75px;
+}
+
+.minibox {
+	width: 75px;
+	height: 75px;
+	background-color: MediumAquaMarine;
+	position: absolute;
+	margin: 0;
+}
+
+.bgbox2 {
+	width: 300px;
+	height: 300px;
+	background-color: FireBrick ;
+	position: absolute;
+	margin: 310px 0 0 0;
+}
+
+.midbox2 {
+	width: 150px;
+	height: 150px;
+	background-color: Khaki;
+	position: absolute;
+	margin: 75px 0 0 75px;
+}
+
+.minibox2 {
+	width: 75px;
+	height: 75px;
+	background-color: LightCoral;
+	position: absolute;
+	margin: 0;
+}
